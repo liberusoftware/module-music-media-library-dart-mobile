@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-media-library-dart-mobile",
+  "capabilityKey": "liberusoftware/music-media-library",
+  "presentation": "dart-mobile",
+  "package": "module_music_media_library_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/music/nextjs/media-library.md",
+  "presentationPlan": "projects/music/features/media-library.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
